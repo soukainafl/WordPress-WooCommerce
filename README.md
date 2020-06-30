@@ -25,7 +25,7 @@ copiez le dossier principal du projet dans dossier \xampp\htdocs.
 
 7ème étape: Ensuite, cliquez sur l'onglet bases de données
 
-8ème étape: créer une base de données nommant "wordpress" puis cliquer sur l'onglet d'importation
+8ème étape: créer une base de données nommant "e-commerce" puis cliquer sur l'onglet d'importation
 
 9ème étape: Cliquez sur parcourir le fichier et sélectionnez le fichier "e-commerce.sql" qui se trouve dans le dossier "basedonne"
 
